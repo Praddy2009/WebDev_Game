@@ -10,8 +10,8 @@ body{
 }
 
 #field{
-    height: 200px;
-    width: 200px;
+    height: 600px;
+    width: 600px;
     display: block;
     margin-top: 50px;
     margin-left: auto;
@@ -29,15 +29,15 @@ body{
 }
 
 #But{
-    height: 70px;
-    width: 250px;;
+    height: 120px;
+    width: 550px;;
     display: block;
     margin-top: 120px;
     margin-left: auto;
     margin-right: auto;   
     background-color: rgb(228, 204, 204); 
     font-family: 'Times New Roman', Times, serif;
-    font-size: 25px;
+    font-size: 70px;
     border-radius: 3px;
 }
 #Textarea{
@@ -55,6 +55,6 @@ body{
 
 #copyright{
     margin-top: 20px;
-    font-size: 8px;
+    font-size: 28px;
     color: rgb(158, 142, 142);
 }
